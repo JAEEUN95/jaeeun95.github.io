@@ -222,6 +222,20 @@ defaults:
       layout: single
       author_profile: true
   # _docs
+<<<<<<< HEAD
+=======
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+  #      nav: "docs"
+>>>>>>> be1693512b082511f70b362cc11d70cc0b72a624
   # _recipes
   - scope:
       path: ""
